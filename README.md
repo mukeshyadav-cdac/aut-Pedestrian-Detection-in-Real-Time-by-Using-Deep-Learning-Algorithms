@@ -1,0 +1,4 @@
+# aut-Pedestrian-Detection-in-Real-Time-by-Using-Deep-Learning-Algorithms
+
+Pedestrian detection in real-time can be used in many situations as it has the ability to determine the type of objects, counts of objects and motion of objects. This technique can be used for surveillance to detect unwanted people via surveillance video; it can be used in advanced robotics for detecting objects around it, similarly it is used in assistance in driving a car and it can be used for self-driving car technologies.
+In this paper, I have explored various Deep Learning algorithms specifically based on convolution neural networks and compared their results. I have used YOLOv2 algorithm for object detection with various feature extraction CNN models such as DarkNet19, SqueezeNet and MobileNet which are available for the backend.
